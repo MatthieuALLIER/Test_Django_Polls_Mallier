@@ -25,7 +25,7 @@ SECRET_KEY = 'wum*!*@otcr^_*^(#1=7d!-#03a+wwl)rt7uv@m-ii$w_q_a-b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["myproject.herokuapp.com", '127.0.0.1']
+ALLOWED_HOSTS = ["mallier-polls.herokuapp.com", '127.0.0.1']
 
 
 # Application definition
